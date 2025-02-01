@@ -1,7 +1,7 @@
 
 clc; clearvars;
 syms x;
-
+% Hello World
 % Type 1 ('ay'''' + by'' + cy = f(x)')              non homo or homo second order
 % Type 2 ('a*x^2*y'''' + b*x*y'' + c*y = f(x)\n')   Cushey Euler
 
